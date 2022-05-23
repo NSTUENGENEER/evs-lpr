@@ -1,4 +1,4 @@
-# RIA ModelEvs Client
+# ModelEvs Client
 
 ## Installation
 ```bash
